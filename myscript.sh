@@ -8,7 +8,7 @@ echo $p2
 
 if [[ p1 -eq p2 ]];
  then
-    echo "./stopApp11"
+    echo "./stopApp"
 #./startApp";
  else
     echo "./startApp"
