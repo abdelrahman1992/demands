@@ -1,0 +1,2 @@
+ariable1=${1:-"AF_Orchestrator-1-AF_Orchestrator_Agent_17"}
+echo "09/01/18 18721 11:13:01:INFO: La aplicacion /AF/OrderManagement/InferenceAgent/AF_ORCH_AGENT, instancia $variable1 esta arrancada (PID=12232)"
