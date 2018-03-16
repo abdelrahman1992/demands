@@ -1,3 +1,3 @@
 echo "ehab ,reem and abdelrahman"
-touch /usr/share/jenkins/reem.txt
-echo "ehab, reem">>/usr/share/jenkins/reem.txt
+touch /home/abdelrahman/Desktop/reem.txt
+echo "ehab, reem">>/home/abdelrahman/Desktop/reem.txt
